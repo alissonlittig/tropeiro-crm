@@ -54,7 +54,7 @@
   </div>
 </section>
 
-<section class="grid two" style="grid-template-columns:1fr 1fr">
+<section class="grid two even">
   <div class="card">
     <h2>Metas por vendedor <a href="#/vendedores" style="font-size:.85rem;color:var(--pri)">ver todos</a></h2>
     <div class="rows">
