@@ -3,7 +3,7 @@
   --pri: #14503f; --pri-2: #1d6b55; --pri-soft: #e3efe9; --acc: #e0a04a; --acc-ink: #8a4d0c; --acc-soft: #fbefd9;
   --red: #a63d2f; --red-soft: #f9e4e0; --blue: #2c5d8f; --blue-soft: #e2edf8;
   --r: 14px; --shadow: 0 1px 2px rgba(28,37,33,.05), 0 6px 20px -8px rgba(28,37,33,.12);
-  font-family: 'Segoe UI Variable Text', 'Segoe UI', Inter, system-ui, -apple-system, Roboto, sans-serif;
+  font-family: 'Segoe UI', Inter, system-ui, -apple-system, Roboto, sans-serif;
   color: var(--ink); background: var(--bg); font-size: 15px; line-height: 1.45;
 }
 * { box-sizing: border-box; }
